@@ -16,5 +16,5 @@ Server : XAMPP.
 
 Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
 
-`Youtube Video Link:`
+`Youtube Link:`
 https://youtu.be/K6hHfisOZW4
